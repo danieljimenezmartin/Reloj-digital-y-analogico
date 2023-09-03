@@ -27,7 +27,7 @@
 <br/>
 
 ## <a name="instalacion"></a>Instalación 🚨 
-Este proyecto no necesita instalación.
+Este proyecto no necesita instalación.  
 <br/>
 
 ## <a name="ver-proyecto"></a>Ver el proyecto ⚡
@@ -40,20 +40,19 @@ Tecnologías utilizadas en el proyecto:
 
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 <br/>
 
 ## <a name="licencia"></a>Licencia 📝
 MIT Public License v3.0
-No puede usarse comercialmente.
+No puede usarse comercialmente.  
 <br/>
-
+  
 ## <a name="autor"></a>Autor 👨🏽‍💻
 **Daniel Jiménez Martín**
 * [LinkedIn](https://www.linkedin.com/in/dany-jimenez/)
-* [Portfolio web](https://www.danyjimenez.com)
+* [Portfolio web](https://www.danyjimenez.com)  
 <br/>
 
 ## <a name="contacto"></a>Contacto 📫
 Si quieres contactar conmigo puedes escribirme a hola@danyjimenez.com
-
